@@ -24,4 +24,4 @@ Basta abrir o ficheiro `index.html` num navegador web moderno e o jogo começar�
 
 ---
 
-Divirta-se jogando! 🎉
+Divirta-se a jogar! 🎉
